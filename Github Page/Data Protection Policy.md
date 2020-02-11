@@ -15,9 +15,9 @@ This data protection policy ensures Titanium Plus Auto :
 * Protects the rights of staff, customers and partners
 * Is open about how it stores and processes individuals’ data
 * Protects itself from the risks of a data breach
-
+</br>
 #### People, risks and responsibilities
-Policy scope</br>
+#### Policy scope</br>
 This policy applies to:</br>
 * The head office of Titanium Plus Auto 
 * All branches of Titanium Plus Auto 
@@ -34,7 +34,7 @@ This policy helps to protect Titanium Plus Auto  from some very real data securi
 * Breaches of confidentiality. For instance, information being given out inappropriately.
 * Failing to offer choice. For instance, all individuals should be free to choose how the company uses data relating to them.
 * Reputational damage. For instance, the company could suffer if hackers successfully gained access to sensitive data.</br>
-#### Responsibilities
+#### Responsibilities</br>
 Everyone who works for or with Titanium Plus Auto  has some responsibility for ensuring data is collected, stored and handled appropriately.</br>
 Each team that handles personal data must ensure that it is handled and processed in line with this policy and data protection principles. </br>
 However, these people have key areas of responsibility:
@@ -56,7 +56,7 @@ However, these people have key areas of responsibility:
     * Addressing any data protection queries from journalists or media outlets like newspapers.
     * Where necessary, working with other staff to ensure marketing initiatives abide by data protection principles.
 </br>
-#### General staff guidelines
+#### General staff guidelines </br>
 * The only people able to access data covered by this policy should be those who need it for their work.
 * Data should not be shared informally. When access to confidential information is required, employees can request it from their line managers.
 * Titanium Plus Auto  will provide training to all employees to help them understand their responsibilities when handling data.
@@ -66,13 +66,13 @@ However, these people have key areas of responsibility:
 * Data should be regularly reviewed and updated if it is found to be out of date. If no longer required, it should be deleted and disposed of.
 * Employees should request help from their line manager or the data protection officer if they are unsure about any aspect of data protection. 
 </br>
-#### Data storage
+#### Data storage</br>
 These rules describe how and where data should be safely stored. Questions about storing data safely can be directed to the IT manager or data controller.</br>
 When data is stored on paper, it should be kept in a secure place where unauthorised people cannot see it.</br>
 These guidelines also apply to data that is usually stored electronically but has been printed out for some reason:
 * When not required, the paper or files should be kept in a locked drawer or filing cabinet.
 * Employees should make sure paper and printouts are not left where unauthorised people could see them, like on a printer.
-* Data printouts should be shredded and disposed of securely when no longer required.
+* Data printouts should be shredded and disposed of securely when no longer required.</br>
 When data is stored electronically, it must be protected from unauthorised access, accidental deletion and malicious hacking attempts:
 * Data should be protected by strong passwords that are changed regularly and never shared between employees.
 * Personal data must be encrypted according to industry standards.
@@ -82,15 +82,15 @@ When data is stored electronically, it must be protected from unauthorised acces
 * Data should be backed up frequently. Those backups should be tested regularly, in line with the company’s standard backup procedures.
 * Data should never be saved directly to laptops or other mobile devices like tablets or smart phones.
 * All servers and computers containing data should be protected by approved security software and a firewall.
-
-#### Data use
+</br>
+#### Data use</br>
 Personal data is of no value to Titanium Plus Auto unless the business can make use of it. However, it is when personal data is accessed and used that it can be at the greatest risk of loss, corruption or theft:
 * When working with personal data, employees should ensure the screens of their computers are always locked when left unattended.
 * Personal data should not be shared informally. In particular, it should never be sent by email, as this form of communication is not secure.
 * Data must be encrypted before being transferred electronically. The IT manager can explain how to send data to authorised external contacts.
 * Employees should not save copies of personal data to their own computers. Always access and update the central copy of any data.
 
-#### Data accuracy
+#### Data accuracy</br>
 The law requires Titanium Plus Auto to take reasonable steps to ensure data is kept accurate and up to date.</br>
 The more important it is that the personal data is accurate, the greater the effort Titanium Plus Auto should put into ensuring its accuracy.</br>
 It is the responsibility of all employees who work with data to take reasonable steps to ensure it is kept as accurate and up to date as possible. </br>
@@ -100,8 +100,8 @@ It is the responsibility of all employees who work with data to take reasonable 
 * Data should be updated as inaccuracies are discovered. For instance, if a customer can no longer be reached on their stored telephone number, it should be removed from the database.
 * It is the marketing manager’s responsibility to ensure marketing databases are checked against industry suppression files every six months.
 
-#### Subject access requests
-All individuals who are the subject of personal data held by Titanium Plus Auto are entitled to:
+#### Subject access requests</br>
+All individuals who are the subject of personal data held by Titanium Plus Auto are entitled to:</br>
 * Ask what information the company holds about them and why.
 * Ask how to gain access to it.
 * Be informed how to keep it up to date. 
@@ -112,7 +112,7 @@ Individuals will be charged $10 per subject access request. The data controller 
 The data controller will always verify the identity of anyone making a subject access request before handing over any information.</br>
 
 #### Providing information
-Titanium Plus Auto aims to ensure that individuals are aware that their data is being processed, and that they understand:
+Titanium Plus Auto aims to ensure that individuals are aware that their data is being processed, and that they understand:</br>
 * How the data is being used
 * How to exercise their rights 
 To these ends, the company has a privacy statement, setting out how data relating to individuals is used by the company.</br>
