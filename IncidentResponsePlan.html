@@ -1,44 +1,11 @@
-<h2>How are employees identified and restricted?</h2>
-<p>Each employee has their own windows login and are assigned to a user group.
-Information are only accessible using our application and each employee is given a application user id. The given user is assigned to a role which can see only the information they need to perform their job
-</p>
-<h2>How does your organization prevent Amazon Information from being accessed from employee personal devices? </h2>
-<p>Information can only be access using our application and they are installed on designated machines by administrator</p>
-<h2>Organization Privacy and Data Handling Policies : </h2>
-<p>PII data are used only to produce shipping labels and were removed from the database after 7 days</p>
-<h2>Where is Amazon Information stored and how is it encrypted?</h2>
-<p>Information are stored in the database and PII columns are encrypted using the Rijndael algorithm</p>
-<h2>Where is Amazon Information archived and how is it encrypted? </h2>
-<p>No backup</p>
-<h2>How does your organization monitor and detect malicious activity in your application(s)? </h2>
-<p>Failed login attempts are logged. If consecutively failed more than 5 times, an email is sent to the administrator and account is temporary disable until reviewed</p>
-<h2>How does your organization's incident response plan addresses database hacks, unauthorized access, data leaks etc.? </h2>
-<p>System administrator reviews server/database/applications logs on a regular basis. If suspicious login attempts are spotted by us, administrator will try to identify where, when and who it is from.</p>
-<p>In the case where attempts to login to the application failed multiple times, the applications disable the account and an email is send to the administrator. Administrator will review the case and decide whether to re enable the account or other actions are required.</p>
-<h2>Developer Selected Solution Type :</h2>
-<p>None</p>
-<h2>For whom do you develop or plan to develop applications? </h2>
-<p>public</p>
-<h2>Website URL </h2>
-<p>https://titaniumplusautoparts.com/</p>
-<h2>Technical Support Contact Name : </h2>
-<p>Bin Xiao</p>
-<h2>Technical Support Email : </h2>
-<p>bin@amplethink.com</p>
-<h2>Technical Support Phone Number : </h2>
-<p>6269483800</p>
-<h2>Technical Support Phone Number Country Code : </h2>
-<p>1</p>
-<h1>Business Use Information :</h1>
-<h2>In which regions do you operate? </h2>
-<p>Americas (includes Canada; US; Mexico; Brazil),</p>
-<h2>If you are currently a developer, please provide your developer ID : </h2>
-<p>2806-0786-5726</p>
-<h2>What functionality is included in your application? </h2>
-<p>Listing, Pricing, Inventory/Order management, Fulfillment By Amazon, Advertising, Feedback and reviews, Merchant fulfilled shipping,
-Please describe your applications’ features : Merchant Fulfilled Shipping, FBA shipments, seller prime orders
-</p>
-<h2>How many employees are in your organization? : </h2>
-<p>10 or fewer</p>
-<h2>I have read and agree to the Amazon Marketplace Developer Agreement, the Acceptable Use Policy and the Data Protection Policy : </h2>
-<p>YES</p>
+<h2>1. What to do in case your servers/databases are hacked?</h2>
+<p>We encrypt and store our clients’ seller authorization tokens in the database. If the database was hacked, we will notify our clients and request them to revoke our permissions to access their customer data. After the incident is investigated and closed, we will try to negotiate with Amazon to get a new pair of access key and secret key.</p>
+<h2>2. What to do in case an unauthorized access to customer data is detected?</h2>
+<p>Customer data are not stored or displayed anywhere in database or application.</p>
+<h2>3. Who to contact in case of an incident and what steps to follow?</h2>
+<p>In case of an incident, all computers will be taken offline and isolated. After the breach is contained, we will assess the damage and notify Amazon with 24 hours. Based on the type of data compromised, we may notify our clients what happened and steps they can do for protection from any further damage. Next, we will investigate what went wrong and how to prevent it from happening again. After new measures are implemented, we will resume operation.</p>
+<h2>4. What to do in case your servers leaked Amazon Information?</h2>
+<p>We only have a database server and accessible only from our internal network. If this server is compromised, we will follow the steps listed in the answer for question 1.</p>
+<h2>5. How to reach out to Amazon to inform them of the incident?</h2>
+<p>We will notify Amazon at security@amazon.com</p>
+
