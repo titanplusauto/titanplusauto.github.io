@@ -1,5 +1,5 @@
 # Titanium Plus Auto
-### Developer Contact Information :</br>
+### Developer Contact Information :
 Company Name : Titanium Plus Auto</br>
 Contact Email : bin@amplethink.com</br>
 Primary Contact Name : Bin Xiao</br>
@@ -13,7 +13,7 @@ Postal Code : 91746</br>
 Contact Phone Number : 6269483800</br>
 Contact Phone Country Code : 1</br>
 </br>
-### Data Privacy policy :</br>
+### Data Privacy policy :
 Uses Network Controls : Yes</br>
 Network controls used : Virtual Private Cloud (VPC),</br>
 Uses Data Restrictions : Yes</br>
