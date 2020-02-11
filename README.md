@@ -1,6 +1,6 @@
 # Titanium Plus Auto
-<a href="https://titanplusauto.github.io/OrganizationPrivacyAndDataHandlingPolicies">Organizationa Privacy and Data Handling Policies</a>
-<a href="https://titanplusauto.github.io/IncidentResponsePlan.html">Incident Response Plan</a>
+<p><a href="https://titanplusauto.github.io/OrganizationPrivacyAndDataHandlingPolicies">Organizationa Privacy and Data Handling Policies</a></p>
+<p><a href="https://titanplusauto.github.io/IncidentResponsePlan.html">Incident Response Plan</a></p>
 
 - - - -
 ## Data Protection Policy
