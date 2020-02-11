@@ -40,21 +40,21 @@ Each team that handles personal data must ensure that it is handled and processe
 However, these people have key areas of responsibility:
 * The board of directors is ultimately responsible for ensuring that Titanium Plus Auto  meets its legal obligations.
 * The data protection officer, Bin Xiao, is responsible for:
-o	Keeping the board updated about data protection responsibilities, risks and issues.
-o	Reviewing all data protection procedures and related policies, in line with an agreed schedule.
-o	Arranging data protection training and advice for the people covered by this policy.
-o	Handling data protection questions from staff and anyone else covered by this policy.
-o	Dealing with requests from individuals to see the data Titanium Plus Auto  holds about them (also called ‘subject access requests’).
-o	Checking and approving any contracts or agreements with third parties that may handle the company’s sensitive data.
+    * Keeping the board updated about data protection responsibilities, risks and issues.
+    * Reviewing all data protection procedures and related policies, in line with an agreed schedule.
+    * Arranging data protection training and advice for the people covered by this policy.
+    * Handling data protection questions from staff and anyone else covered by this policy.
+    * Dealing with requests from individuals to see the data Titanium Plus Auto  holds about them (also called ‘subject access requests’).
+    * Checking and approving any contracts or agreements with third parties that may handle the company’s sensitive data.
 * The IT manager, Bin Xiao, is responsible for:
-o	Ensuring all systems, services and equipment used for storing data meet acceptable security standards.
-o	Performing regular checks and scans to ensure security hardware and software is functioning properly.
-o	Evaluating any third-party services the company is considering using to store or process data. For instance, cloud computing services.
-o	In case of a security breach, notify Amazon at security@amazon.com.
+    * Ensuring all systems, services and equipment used for storing data meet acceptable security standards.
+    * Performing regular checks and scans to ensure security hardware and software is functioning properly.
+    * Evaluating any third-party services the company is considering using to store or process data. For instance, cloud computing services.
+    * In case of a security breach, notify Amazon at security@amazon.com.
 * The marketing manager, Anna Wang, is responsible for:
-o	Approving any data protection statements attached to communications such as emails and letters.
-o	Addressing any data protection queries from journalists or media outlets like newspapers.
-o	Where necessary, working with other staff to ensure marketing initiatives abide by data protection principles.
+    * Approving any data protection statements attached to communications such as emails and letters.
+    * Addressing any data protection queries from journalists or media outlets like newspapers.
+    * Where necessary, working with other staff to ensure marketing initiatives abide by data protection principles.
 </br>
 #### General staff guidelines
 * The only people able to access data covered by this policy should be those who need it for their work.
