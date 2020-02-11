@@ -77,13 +77,13 @@ It applies to all data that the company holds relating to identifiable individua
 * Telephone numbers
 * …plus any other information relating to individuals
 </br>
-#### Data protection risks </br>
+#### Data protection risks
 This policy helps to protect Titanium Plus Auto  from some very real data security risks, including:</br>
 * Breaches of confidentiality. For instance, information being given out inappropriately.
 * Failing to offer choice. For instance, all individuals should be free to choose how the company uses data relating to them.
 * Reputational damage. For instance, the company could suffer if hackers successfully gained access to sensitive data.
 </br>
-#### Responsibilities</br>
+#### Responsibilities
 Everyone who works for or with Titanium Plus Auto  has some responsibility for ensuring data is collected, stored and handled appropriately.
 Each team that handles personal data must ensure that it is handled and processed in line with this policy and data protection principles.
 However, these people have key areas of responsibility:
