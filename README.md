@@ -1,7 +1,8 @@
 # Titanium Plus Auto
 </br>
 ## Organization Privacy and Data Handling Policies
-### Developer Contact Information :
+- - - -
+#### Developer Contact Information :
 Company Name : Titanium Plus Auto</br>
 Contact Email : bin@amplethink.com</br>
 Primary Contact Name : Bin Xiao</br>
@@ -14,8 +15,8 @@ State : CA</br>
 Postal Code : 91746</br>
 Contact Phone Number : 6269483800</br>
 Contact Phone Country Code : 1</br>
-</br>
-### Data Privacy policy :
+
+#### Data Privacy policy :
 Uses Network Controls : Yes</br>
 Network controls used : Virtual Private Cloud (VPC),</br>
 Uses Data Restrictions : Yes</br>
@@ -26,7 +27,7 @@ Data encryption used : AWS provided encryption, HTTPS/SFTP/TLS1.2+,</br>
 Have incident management policy : Yes</br>
 Reports incidents to Amazon : Yes</br>
 </br>
-### Restricted data access :
+#### Restricted data access :
 How long do you retain Personally Identifiable Information (PII) data? : Less than 30 days,</br>
 Do you have a data handling and privacy policy? : Yes</br>
 Do you encrypt Amazon data at rest? : Yes</br>
@@ -42,3 +43,4 @@ How is public access to databases, file servers and developer desktops restricte
 
 - - - -
 
+- - - -
