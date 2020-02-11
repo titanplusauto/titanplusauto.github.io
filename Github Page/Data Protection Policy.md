@@ -21,7 +21,7 @@ This data protection policy ensures Titanium Plus Auto :
 * Protects itself from the risks of a data breach
 </br>
 #### People, risks and responsibilities
-#### Policy scope
+Policy scope</br>
 This policy applies to:
 * The head office of Titanium Plus Auto 
 * All branches of Titanium Plus Auto 
