@@ -1,6 +1,5 @@
 # Titanium Plus Auto
 ## Organization Privacy and Data Handling Policies
-- - - -<br>
 #### Developer Contact Information :
 Company Name : Titanium Plus Auto</br>
 Contact Email : bin@amplethink.com</br>
