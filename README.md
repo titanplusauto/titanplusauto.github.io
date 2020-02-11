@@ -1,6 +1,5 @@
 # Titanium Plus Auto
-## 
-<a href="https://titanplusauto.github.io/Create OrganizationPrivacyandDataHandlingPolicies.md/">Organization Privacy and Data Handling Policies</a>
+<a href="https://titanplusauto.github.io/CreateOrganizationPrivacyandDataHandlingPolicies.md/">Organization Privacy and Data Handling Policies</a>
 - - - -
 ## Data Protection Policy
 ### Context and overview
