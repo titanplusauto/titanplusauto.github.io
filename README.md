@@ -61,7 +61,6 @@ This data protection policy ensures Titanium Plus Auto :
 * Protects the rights of staff, customers and partners
 * Is open about how it stores and processes individuals’ data
 * Protects itself from the risks of a data breach
-</br>
 ### People, risks and responsibilities
 Policy scope</br>
 This policy applies to:
@@ -69,20 +68,17 @@ This policy applies to:
 * All branches of Titanium Plus Auto 
 * All staff and volunteers of Titanium Plus Auto 
 * All contractors, suppliers and other people working on behalf of Titanium Plus Auto
-</br>
 It applies to all data that the company holds relating to identifiable individuals. This can include:</br>
 * Names of individuals
 * Postal addresses
 * Email addresses
 * Telephone numbers
 * …plus any other information relating to individuals
-</br>
 #### Data protection risks
 This policy helps to protect Titanium Plus Auto  from some very real data security risks, including:</br>
 * Breaches of confidentiality. For instance, information being given out inappropriately.
 * Failing to offer choice. For instance, all individuals should be free to choose how the company uses data relating to them.
 * Reputational damage. For instance, the company could suffer if hackers successfully gained access to sensitive data.
-</br>
 #### Responsibilities
 Everyone who works for or with Titanium Plus Auto  has some responsibility for ensuring data is collected, stored and handled appropriately.
 Each team that handles personal data must ensure that it is handled and processed in line with this policy and data protection principles.
@@ -104,7 +100,6 @@ However, these people have key areas of responsibility:
     * Approving any data protection statements attached to communications such as emails and letters.
     * Addressing any data protection queries from journalists or media outlets like newspapers.
     * Where necessary, working with other staff to ensure marketing initiatives abide by data protection principles.
-</br>
 #### General staff guidelines
 * The only people able to access data covered by this policy should be those who need it for their work.
 * Data should not be shared informally. When access to confidential information is required, employees can request it from their line managers.
@@ -114,7 +109,6 @@ However, these people have key areas of responsibility:
 * Personal data should not be disclosed to unauthorized people, either within the company or externally.
 * Data should be regularly reviewed and updated if it is found to be out of date. If no longer required, it should be deleted and disposed of.
 * Employees should request help from their line manager or the data protection officer if they are unsure about any aspect of data protection. 
-</br>
 #### Data storage
 These rules describe how and where data should be safely stored. Questions about storing data safely can be directed to the IT manager or data controller.
 When data is stored on paper, it should be kept in a secure place where unauthorized people cannot see it.
@@ -150,11 +144,10 @@ It is the responsibility of all employees who work with data to take reasonable 
 * It is the marketing manager’s responsibility to ensure marketing databases are checked against industry suppression files every six months.
 #### Subject access requests
 All individuals who are the subject of personal data held by Titanium Plus Auto are entitled to:
-</br>
 * Ask what information the company holds about them and why.
 * Ask how to gain access to it.
 * Be informed how to keep it up to date. 
-* Be informed how the company is meeting its data protection obligations.</br>
+* Be informed how the company is meeting its data protection obligations.
 If an individual contacts the company requesting this information, this is called a subject access request. </br>
 Subject access requests from individuals should be made by email, addressed to the data controller at binxiao@gmail.com. The data controller can supply a standard request form, although individuals do not have to use this.
 Individuals will be charged $10 per subject access request. The data controller will aim to provide the relevant data within 14 days.
@@ -166,7 +159,3 @@ Titanium Plus Auto aims to ensure that individuals are aware that their data is 
 * How to exercise their rights 
 To these ends, the company has a privacy statement, setting out how data relating to individuals is used by the company.
 This is available on request.
-
-
-
-
