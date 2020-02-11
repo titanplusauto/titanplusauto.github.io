@@ -41,5 +41,3 @@ Any Non-Amazon MWS sources where Amazon Information is retrieved : None</br>
 How is public access to databases, file servers and developer desktops restricted : All external access to company network are blocked off by firewall</br>
 
 - - - -
-
-- - - -
