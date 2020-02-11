@@ -1,4 +1,6 @@
 # Titanium Plus Auto
+</br>
+## Organization Privacy and Data Handling Policies
 ### Developer Contact Information :
 Company Name : Titanium Plus Auto</br>
 Contact Email : bin@amplethink.com</br>
@@ -38,4 +40,5 @@ Outside Parties Amazon data is shared with and how that data is used : None</br>
 Any Non-Amazon MWS sources where Amazon Information is retrieved : None</br>
 How is public access to databases, file servers and developer desktops restricted : All external access to company network are blocked off by firewall</br>
 
-===================================================================================================================
+- - - -
+
